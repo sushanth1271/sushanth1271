@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi, I’m an MCA graduate and an aspiring Software Developer with a growing interest in Data Analytics and Machine Learning.<br>I enjoy building practical applications, analyzing data to extract meaningful insights, and exploring machine learning concepts to solve real-world problems.<br><br>💻 Skills & Interests:<br>      - Software Development<br>      - Data Analysis & Visualization<br>      - Machine Learning (Beginner)<br>      - Python, SQL, and related tools<br><br>🚀 I’m eager to learn, improve my skills, and contribute to impactful projects.
-
+👋 Hi, I’m an MCA graduate and an aspiring Software Developer with a growing interest in Data Analytics and Machine Learning.<br>I enjoy building practical applications, analyzing data to extract meaningful insights, and exploring machine learning concepts to solve real-world problems.<br><br>💻 Skills & Interests:<br>      - Software Development<br>      - Data Analysis & Visualization<br>      - Machine Learning (Beginner)<br>   - Tools & Platforms: Git, GitHub, Postman, VS Code<br>   - Python, SQL, and related tools<br><br>🚀 I’m eager to learn, improve my skills, and contribute to impactful projects.
+<br>Additional Engineering Experience & Cloud Interest:<br> - Experience integrating RESTful APIs and building CRUD-based full stack applications<br> - Proficient with Git, GitHub, version control workflows, and collaborative branching strategies<br> - Strong interest in Cloud Computing (AWS) with hands-on learning in EC2, S3, IAM, and deployment concepts<br> - Comfortable working in fast-paced environments, and cross-functional collaborations<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sushanth-r-acharya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acharyasushanth0@gmail.com) 
